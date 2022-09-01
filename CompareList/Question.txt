@@ -1,0 +1,7 @@
+Q: Compare two arrays of integers
+
+if a[i] > b[i]      x ++
+if b[i] > a[i]      y ++
+
+
+output [x,y]

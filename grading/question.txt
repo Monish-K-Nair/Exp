@@ -1,0 +1,7 @@
+For a list of Grades
+
+round to next multiple of 5
+      if value is greater than min_val 
+      and max moderation
+
+output is list with moderation applied
